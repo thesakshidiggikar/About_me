@@ -4,7 +4,7 @@
 </div>   -->
   
 
-### <div align="center">I'm Sakshi Diggikar, A passionate App and Website Developer from India 🚀</div>  
+### <div align="center">I'm Sakshi Diggikar, A passionate Machine Learning Engineer from India 🚀</div>  
   
 
 - 🔭 I’m currently working on :- App Developement using Flutter  

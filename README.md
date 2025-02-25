@@ -4,16 +4,16 @@
 </div>   -->
   
 
-### <div align="center">I'm Sakshi Diggikar, A passionate Machine Learning Engineer from India 🚀</div>  
+### <div align="center">I'm Sakshi Diggikar, A passionate Data Science Engineer from India 🚀</div>  
   
 
-- 🔭 I’m currently working on :- App Developement using Flutter  
+- 🔭 I’m currently working on :- Data Science Realworld Project  
   
 
-- 🌱 I’m currently learning React Js  and Docker  
+- 🌱 I’m currently learning R and Computer Vision
   
 
-- ❓ Ask me about anything related to  Flutter, Dart, Mysql , Php and related technologies  
+- ❓ Ask me about anything related to  Tensorflow, Keras, Computer Vision, ImageVision, Mediapie
   
 
 <br/>  
